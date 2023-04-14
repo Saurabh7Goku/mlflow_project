@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Goku/Projects/MlFlow%20project/mlruns/541366319165714596/25a0013388dc4974b20cea5bf6e0ef00/artifacts
+end_time: 1680981542276
+entry_point_name: ''
+experiment_id: '541366319165714596'
+lifecycle_stage: active
+run_id: 25a0013388dc4974b20cea5bf6e0ef00
+run_name: gaudy-skunk-75
+run_uuid: 25a0013388dc4974b20cea5bf6e0ef00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680981527912
+status: 3
+tags: []
+user_id: goku1

@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Goku/Projects/MlFlow%20project/model_serving/mlruns/963579340921329239
+creation_time: 1681111780659
+experiment_id: '963579340921329239'
+last_update_time: 1681111780659
+lifecycle_stage: active
+name: iris_classifier_10-04-23

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Goku/Projects/MlFlow%20project/mlruns/541366319165714596/225e0fa9c77e45cca365f5b32e2ce593/artifacts
+end_time: 1680981485604
+entry_point_name: ''
+experiment_id: '541366319165714596'
+lifecycle_stage: active
+run_id: 225e0fa9c77e45cca365f5b32e2ce593
+run_name: delightful-steed-698
+run_uuid: 225e0fa9c77e45cca365f5b32e2ce593
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680981480480
+status: 3
+tags: []
+user_id: goku1
